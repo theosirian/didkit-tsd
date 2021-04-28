@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "keywords": [],
+  "scripts": {
+    "test": "tsc --noEmit -p ."
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
